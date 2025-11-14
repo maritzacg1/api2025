@@ -23,7 +23,7 @@ const corsOptions = {
     "http://localhost:8100",       // navegador Ionic
     "capacitor://localhost",       // app Android/iOS
     "ionic://localhost",           // app móvil
-    "https://api-20252-main.onrender.com" // dominio del backend (Render)
+    "https://api2025-gszb.onrender.com" // dominio del backend (Render)
   ],
   methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
   credentials: true
